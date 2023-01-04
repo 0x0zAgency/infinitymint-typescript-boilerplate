@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "npm ci && npx tsc && npx hardhat compile"
+	"postCreateCommand": "npm i && npx tsc && npx hardhat compile"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
