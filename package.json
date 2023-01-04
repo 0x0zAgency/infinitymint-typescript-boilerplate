@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "infinitymint": "^1.0.22"
+    "infinitymint": "^1.0.23"
   },
   "devDependencies": {
     "@types/module-alias": "^2.0.1",
