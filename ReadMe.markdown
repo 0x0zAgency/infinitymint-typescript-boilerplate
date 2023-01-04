@@ -1,4 +1,4 @@
-# InfinityMint Javascript Boilerplate by 0x0zAgency
+# InfinityMint Typescript Boilerplate by 0x0zAgency
 
 Want to get straight into InfinityMint? Well this is the easiest solution for you! With just one click you can setup the developer environment to work with InfinityMint.
 
@@ -12,7 +12,7 @@ Want to get straight into InfinityMint? Well this is the easiest solution for yo
 
 Don't feel like starting from scratch? Check out our boilerplates and starter-kits and get building with InfinityMint straight away!
 
-[Typescript Boilerplate](https://github.com/0x0zAgency/infinitymint-typescript-boilerplate)
+[Javascript Boilerplate](https://github.com/0x0zAgency/infinitymint-javascript-boilerplate)
 
 [React Starter-kit (Typescript)](https://github.com/0x0zAgency/infinitymint-react-typescript-starterkit)
 
