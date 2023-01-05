@@ -13,7 +13,6 @@
   "scripts": {
     "test": "mocha",
     "start": "npx tsc && npx hardhat compile && npx ts-node index.ts",
-    "doc": "npx typedoc --options ./typedoc.json"
   },
   "author": "",
   "license": "ISC",
