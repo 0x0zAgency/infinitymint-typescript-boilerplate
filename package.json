@@ -13,11 +13,12 @@
   "scripts": {
     "test": "mocha",
     "start": "npx tsc && npx hardhat compile && npx ts-node index.ts",
+    "postinstall": "npx hardhat compile && npx tsc"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "infinitymint": "^1.0.23"
+    "infinitymint": "latest"
   },
   "devDependencies": {
     "@types/module-alias": "^2.0.1",
