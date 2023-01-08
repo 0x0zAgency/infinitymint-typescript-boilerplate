@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "start": "npx tsc && npx hardhat compile && npx ts-node index.ts",
+    "start": "bpx ts-node index.ts",
     "postinstall": "npx hardhat compile && npx tsc"
   },
   "author": "",
